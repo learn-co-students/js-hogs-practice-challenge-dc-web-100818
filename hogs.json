@@ -22,7 +22,7 @@
       "id": 2,
       "name": "Cherub",
       "specialty": "truffle finder",
-      "greased": false,
+      "greased": true,
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 0.7,
       "highest medal achieved": "gold",
       "image": "./hog-imgs/cherub.jpg"
